@@ -1,0 +1,26 @@
+<html>
+    <head>
+
+    </head>
+    <body>
+       <h1> 
+            Bedelquer Jaimes
+       </h1>
+       
+       <h2>
+        Bedelquer Jaimes <a href="http://github.com/BedelquerJaimes"> BedelquerJaimes</a>
+       </h2>
+        
+        <ul>
+            <li> Me gusta el trabajo en equipo</li>
+            <li> Soy una mujer emprendedora</li>
+            <li> Me gusta la pizza</li>
+            <li> El ultimo libro que me leí fue cronica de una muerte anunciada</li>
+            <li> Me gusta cuidar a Luciana mi sobrina</li>
+            <li> Me gusta ahorrar</li>
+            <li> Me gusta salir de paseo con mi familia</li>
+            <li> Manejo carro y moto es algo que me encanta hacer en mis tiempos libres</li>
+        </ul>
+
+    </body>
+</html>
