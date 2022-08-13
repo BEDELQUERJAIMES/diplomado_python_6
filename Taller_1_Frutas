@@ -1,0 +1,36 @@
+</head>
+    <body>
+       <h1> 
+            Frutas verdes y rojas
+       </h1>
+       
+       <h2>
+ <br>Su ingesta al día aporta vitaminas, sales minerales, antioxidantes y fibra;<br> 
+<br>además es baja en calorías y favorece la eliminación de toxinas del organismo.<br>
+<br>“Las frutas y verduras aportan especialmente la vitamina A y C, son fundamentales<br> 
+<br>para la prevención de enfermedades”, indicaron.<br>
+       
+</h2>
+  Frutas verdes      
+        <ul>
+            <li> Manzana</li>
+            <li> Uva chilena</li>
+            <li> Aguacate</li>
+            <li> Pera</li>
+            <li> Kiwie</li>
+            <li> Sandia</li>
+            
+        </ul>
+
+</h2>
+Frutas rojas
+
+           <li> Fresas</li>
+           <li> Manzana</li>
+           <li> Ciruelas</li>
+           <li> Frauesa</li>
+           <li> Cerezas</li>
+
+
+    </body>
+</html>
