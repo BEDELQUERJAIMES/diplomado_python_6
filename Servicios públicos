@@ -1,0 +1,14 @@
+luz = 130000
+agua = 80000
+gas =  40000
+internet = 70000
+total = luz + agua + gas + internet
+print("total de los recibos del mes:",total)
+numero_de_personas = 5 
+promedio = total/numero_de_personas
+
+print("promedio de gasto por persona:",promedio)
+ACTIVIDAD 3, EN CLASE/SERVICIOSPUBLICOS.PY"
+total de los recibos del mes: 320000
+promedio de gasto por persona: 64000.0
+PS C:\Users\ADMIN> & C:/Users/ADMIN/AppData/Local/Programs/Python/Python310/python.exe "e:/USUARIO/Desktop/DIPLO PYTHON/diplomado_python_6/G
