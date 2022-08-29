@@ -1,0 +1,75 @@
+# Rectangulo
+from cmath import pi
+
+
+print("rectangulo")
+altura = int(input("ingrese el valor de la altura: "))
+ancho = int(input("ingrese el valor de la ancho: "))
+print('dimensiones: altura: {}, ancho: {}'.format( altura, ancho))
+# perimetro
+print('calcluando el perimetro...')
+perimetro = 2 * ancho + 2 * altura
+print('el perimetro es de: {}'.format(perimetro))
+# Area
+print('calcluando el area...')
+area = ancho * altura
+print('el area es de: {}'.format(area))
+# Volumen
+print('calculando el volumen...')
+volumen = area * altura 
+print('el volumen es de: {}'.format(volumen))
+
+
+# CUADRADO
+print("\ncuadrado")
+lado = int(input("ingrese el valor de los lados:"))
+print('dimensiones: los cuatro lados equivale a: {},'.format( lado))
+# perimetro
+print('calcluando el perimetro...')
+perimetro = lado +lado+lado+lado
+print('el perimetro es de: {}'.format(perimetro))
+# Area
+print('calcluando el area...')
+area = lado **2 
+print('el area es de: {}'.format(area))
+# Volumen
+print('calculando el volumen...')
+volumen = lado **3
+print('el volumen es de: {}'.format(volumen))
+
+
+# CIRCULO
+print ("\ncirculo")
+radio = int(input("ingrese el valor de la altura: "))
+# perimetro
+print('calcluando el perimetro...')
+perimetro = 2 *pi* radio
+print('el perimetro es de: {}'.format(perimetro))
+# Area
+print('calcluando el area...')
+area = pi * radio  ** 2
+print('el area es de: {}'.format(area))
+# Volumen
+print('calculando el volumen...')
+volumen = 4/3*pi*radio ** 3 
+print('el volumen es de: {}'.format(volumen))
+
+
+
+# TRIANGULO
+print ("\ntriangulo")
+lado = int(input("ingrese el valor de la altura: "))
+altura = int(input("ingrese el valor de la altura: "))
+base = int(input("ingrese el valor de la altura: "))
+# perimetro
+print('calcluando el perimetro...')
+perimetro = lado + altura + base
+print('el perimetro es de: {}'.format(perimetro))
+# Area
+print('calcluando el area...')
+area = (base * altura) / 2 
+print('el area es de: {}'.format(area))
+# Volumen
+print('calculando el volumen...')
+volumen = base * altura 
+print('el volumen es de: {}'.format(volumen))
