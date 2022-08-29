@@ -1,0 +1,29 @@
+<html>
+<head>
+
+</head>
+<body>
+<h1> 
+Hoja de contacto
+</h1>
+</body>
+<center><img width="100.0px" height= "100.0" src="E:\USUARIO\Downloads\FotoDePerfil.jpeg" alt="Fotodeperfil"></center>
+</body>
+
+<h2>Biografia
+ </h2>
+<p>Naci el 3 de abril de 1984 en el Libano de Rionegro Santander<p>
+       
+<ul>
+<li>Primaria:Escuela la cumbre<a href="https://institutolacumbre.edu.co/responsive/"><span style="color: rgb(148, 25, 111)">Primaria</span></a></li>
+<li>Barricherato:Jose Elias Puyana<a href="https://www.colpuyana.edu.co/"><span style="color: rgb(14, 105, 141)">Secundaria</span></a></li>
+<li>Universitario:Corposalud(Enfermeria)<a href="https://corposalud.edu.co/portal/index.php"><span style="color: rgb(18, 141, 86)">Universitario</span></a></li>
+<li>Congregacion Mariana(Laboratorio clinico)<a href="https://congregacionmariana.org/"><span style="color: rgb(148, 211, 59)">
+Tecnico 1</span></a></li>
+<li>Uniciencias:Contabilidad con en enfasis en sistemas<a href="https://unicienciabga.edu.co/"><span style="color: rgb(171, 101, 43)">Tecnico 2</span></a></li>
+<li>Idiomas:Ninguno</li>           
+</ul>
+<h2>Proyecto: Ejecicios en html</h2>
+<p>En esta oportunidad trabajamos diferentes paginas en html donde el tema principal eran los festivos<a href="https://github.com/BEDELQUERJAIMES/diplomado_python_6/tree/main/Ejercicios%20de%20Html(Festivos)"></a><span style="color: rgb(118, 211, 183)">url de githut</span></p>
+</body>
+</html>
