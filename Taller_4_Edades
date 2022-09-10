@@ -1,0 +1,28 @@
+# Agregar edades
+Lista_Edades = []
+for i in range(9):
+     N_Edades = int((input(f"Ingrese las 9 edades respectivas:\n---->{i+1}. ")))
+     Lista_Edades.append(N_Edades)
+
+# Edad más alta
+Valor_Maximo = None
+
+for edad in Lista_Edades:
+    if (Valor_Maximo is None or edad > Valor_Maximo):
+        Valor_Maximo = edad
+
+print("La edad más alta es: ", Valor_Maximo)
+
+# Edad más baja
+Valor_Minimo = None
+
+for edad in Lista_Edades:
+    if (Valor_Minimo is None or edad < Valor_Minimo):
+        Valor_Minimo = edad
+
+print("La edad más baja es: ", Valor_Minimo)
+
+#Promedio
+PromedioEdad = sum(Lista_Edades)
+Promedio = PromedioEdad / 9
+print("El promedio de las edades es: ", int(Promedio))
