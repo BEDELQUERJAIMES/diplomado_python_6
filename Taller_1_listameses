@@ -1,0 +1,25 @@
+ListaMeses = ["Enero","Febrero","Marzo","Abril","Mayo..."]
+
+# Posición Abril
+print("El mes de Abril se encuentra en la posición {} perteneciente a la lista de los meses del año\n"
+      .format(ListaMeses.index("Abril")))
+
+# Valores en posición 6 y 3
+try:
+    print("El valor de la lista en el indice 6 es igual a --->{}".format((ListaMeses[6])))
+except Exception as e:
+        print("***Error en la lista, Don't worry***", e)
+        print(e,"\n")
+print("El valor de la lista en el indice 3 es igual a ---> {}\n".format(ListaMeses[3]))  # Preguntar si se pueden 2 .format en un mismo print
+
+# Agregar demás meses
+for i in range(int(input("Ingrese la cantidad de meses a agregar: "))):
+     N_Meses = (input("ingrese los demás meses\n---->"))
+     ListaMeses.append(N_Meses)
+
+for mes in ListaMeses:
+    print("\n", mes, "\n")
+
+# Longitud de la lista
+print("El longitud de la lista es igual a:", len(ListaMeses))
+
