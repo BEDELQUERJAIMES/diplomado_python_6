@@ -1,0 +1,5 @@
+meses = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre']
+
+print(f"abril se encuentra en la posición: {meses.count('abril')}")
+print(f"el indice 6 es: {meses[6]} y el indice 3 es: {meses[3]}")
+print(f"la longitud de la lista es de: {meses}")
