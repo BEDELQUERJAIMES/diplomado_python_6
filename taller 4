@@ -1,0 +1,15 @@
+from xml.dom.minidom import Element
+
+
+edades = [13, 21, 49, 14, 50, 45, 30, 22]
+
+suma = sum(edades) / 9
+
+lista_ordenada = edades.sort
+
+print(f'el promedio es {suma}')
+
+print(f'la edad mas alta es: {lista_ordenada[len(edades)]}')
+
+print(f'la edad mas baja es: {lista_ordenada[0]}')
+
